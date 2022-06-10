@@ -1,2 +1,0 @@
-# ExerciseTracker
-Just For fun
